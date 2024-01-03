@@ -1,0 +1,2 @@
+This firmware is using the shifting method in binary to light the leds one at a time using the pins RB5, RB6, RB7, RD2, RD3, RD5 and ,RD6 without RD4.
+chip used is PIC16LF1937
