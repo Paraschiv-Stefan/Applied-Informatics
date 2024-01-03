@@ -1,9 +1,12 @@
-# Applied-Informatics
-Proteus projects(using the chip PIC16LF1937/ PIC16F1937) and website code. <br/>
-<p></p>
-Applied informatics 1: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Final lab task - website]("https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/AI1-website") <br/>
-<p></p>
-Applied informatics 2: <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[lab 11/ simple digital calculator] <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[lab 12/ Timer] <br/>
+## Applied Informatics
+ - Applied informatics 1:
+    - [Final lab task - website](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/AI1-website)
+      
+- Applied informatics 2:
+    - [lab 1/ two led light switch](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_1)
+    - [lab2/ led light switch using shifting method](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_2)
+    - [lab3/ turning a led on using a button](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_3)
+    - [lab4/ creating an exact delay](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_4)
+    - [lab5/ simple calculator](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_5)
+    - [lab6/ Timer](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_6)
+    - [lab 7/ Analog device](https://github.com/Paraschiv-Stefan/Applied-Informatics/tree/lab_7)
