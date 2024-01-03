@@ -1,0 +1,2 @@
+This firmware programs a button to light up three leds, the longer you press another led will turn on.
+chip used PIC16LF1937
