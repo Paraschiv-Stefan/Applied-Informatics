@@ -1,0 +1,1 @@
+This firmware uses the PIC16LF1937 chip to light two leds at different times
