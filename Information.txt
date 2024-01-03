@@ -1,0 +1,2 @@
+This firmware reads from the keyboard 2 numbers through a hyperterminal window and displays the product between them.
+The microcontroler used is PIC16LF1937 and was simulated using Proteus 8 and MPLAB XC8 compiler
