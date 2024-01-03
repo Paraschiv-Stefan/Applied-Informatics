@@ -1,0 +1,58 @@
+.nav li{ display: inline;
+font-size:20px;}
+.nav a {display: inline-block;
+padding:.5em;
+color: #4CAF50;
+text-decoration: none;
+font-size:2em;
+}
+.main-header{
+background-size: cover;
+}
+.main-nav{
+text-align: center;
+border-bottom: 3px solid #4CAF50;
+}
+.main-nav li{
+padding: 0 5%;
+}
+.nav a{
+display: inline-block;
+padding:.5em;
+font-size:40px;
+}
+.nav a:hover{
+background-color: rgba(255,255,255,.2);
+}
+body{
+background: #000026;
+font-family:'Abel';
+margin: 0px;
+}
+.eu{
+float: left;
+margin-right: 10px;
+margin-bottom: 5px;
+margin-left: 15px;
+margin-top: 35px;
+width:500px;
+border: solid  #4CAF50 4px; 
+border-radius:50%;
+}	
+p{
+margin-top:80px;
+margin-right:20px;
+color:white;
+font-size:30px;
+text-align: justify;
+}
+.facebook{
+width: 200px;
+float: right;
+margin-right: 40px;
+}
+.instagram{
+width:200px;
+float: right;
+margin-right: 100px;
+}

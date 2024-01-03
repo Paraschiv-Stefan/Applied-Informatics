@@ -1,0 +1,101 @@
+.nav li{ display: inline;
+font-size:20px;}
+.nav a {display: inline-block;
+padding:.5em;
+color: #4CAF50;
+text-decoration: none;
+font-size:2em;
+}
+.main-header{
+background-size: cover;
+}
+.main-nav{
+text-align: center;
+border-bottom: 3px solid #4CAF50;
+}
+.main-nav li{
+padding: 0 5%;
+}
+.nav a{
+display: inline-block;
+padding:.5em;
+font-size:40px;
+}
+.nav a:hover{
+background-color: rgba(255,255,255,.2);
+}
+body{
+background: #000026;
+font-family:'Abel';
+
+}
+*{
+margin: 0;
+}
+	
+label.logo{
+color: white;
+font-size: 35px;
+line-height: 80px;
+font-weight: bold;
+}
+
+
+p{
+color: white;
+  padding: 10px;
+  text-align: justify;
+font-weight: bold;
+font-size: 25px;
+
+}
+.books
+{width: 650px;
+float:left;
+margin-left:30px;
+margin-top: 30px;
+display: block;
+margin-top:150 px;
+border: solid #4CAF50 2px;
+border-radius:10px; 
+display:block;
+
+}
+
+.scoala{
+float: left;
+margin-right: 10px;
+margin-bottom: 5px;
+margin-left: 15px;
+margin-top: 15px;
+width:310px;
+border: solid #4CAF50 1px; padding: 2px;
+}
+.smallcpu{
+width: 0px;
+margin-bottom:490px;
+display: block;
+}
+
+h1{
+color:#4CAF50;
+}
+.liceu{
+float: right;
+margin-right: 10px;
+margin-bottom: 5px;
+margin-left: 15px;
+margin-top: 15px;
+width:500px;
+border: solid #4CAF50 1px; padding: 2px;
+}
+h2{
+color: #4CAF50;
+float:right;
+font-size:100px;
+margin-top:180px;
+margin-right:200px;
+}
+
+
+
